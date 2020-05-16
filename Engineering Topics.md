@@ -1,6 +1,9 @@
-# How to Solve Programming Problems
+# Engineering Topics
 
-## Common mistakes
+
+## How to Solve Programming Problems
+
+### Common mistakes
 
 - The most common mistake is try to start writing code as soon as possible.
 - Another big mistake is trying to over solve the solution on the first iteration. 
@@ -8,9 +11,9 @@
 
 ![Image](img/lolcatthink_thumb.jpg)
 
-## Solving Problems
+### Solving Problems
 
-### A simple set of steps
+#### A simple set of steps
 
 1. **Read the problem completely twice.**
 -  read the problem 3 or 4 times.
@@ -32,3 +35,36 @@
 
 6. **Optimize the real code.**
 - This is a good place to make sure all your variables are named with long meaningful names. 
+
+## Act like you make $1000/hr
+
+Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive.
+**How you value your time is how you value your life**
+
+**What you think is what you become**.
+
+- If you think your time is worth a few bucks an hour, that you’ll begin to act like it. You’ll find yourself saying “yes” to meaningless, pointless obligations.
+
+But if, in your heart, you know your time is valuable…
+People will recognize that.
+People will respect that.
+People will treat you differently.
+
+- “The difference between successful people and really successful people is that really successful people say no to almost everything.” -Warren Buffet
+You probably need to say “no” more.
+
+- Living in frenzy is a sign we’ve squandered too much
+
+## How to think like a programmer
+
+“Everyone in this country should learn to program a computer, because it teaches you to think.”
+
+ ### what should you do when you encounter a new problem?
+
+ - Here are the steps:
+
+1. Understand
+2. Plan
+3. Divide
+4. Stuck?
+5. Practice
