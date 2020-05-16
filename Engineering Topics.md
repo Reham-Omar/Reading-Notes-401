@@ -69,3 +69,18 @@ You probably need to say “no” more.
 4. Stuck ??
 5. Practice
 
+## 5 Why & 5 How
+
+- The 5 Why method is simply asking the question “Why” enough times until you get past all the symptoms of a problem and down to the root cause. 
+
+- The 5 Hows are then used to determine a root or permanent solution to the “root cause (s)” of the problem .
+
+- The team will review “Why” did the problem occur and “How” can it be resolved so it does not occur again.
+
+### How to Perform 5 Why & 5 How
+
+1. Form the Team
+2. Define the Problem
+3. Ask Why
+4. Determine and Implement Corrective Actions
+
