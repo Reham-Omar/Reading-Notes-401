@@ -2,7 +2,7 @@
 
 Here you will find everything that I have read to share what I learned with you ! 💙
 
- topic | link  |
+ topic          | link  |
 | ------------- | ------------- |
 | Engineering Topics |  [class-00](https://reham-omar.github.io/Reading-Notes-401/Engineering%20Topics)  |
 | READ 1: | [class-01]()  |

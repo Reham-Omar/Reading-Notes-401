@@ -66,5 +66,6 @@ You probably need to say “no” more.
 1. Understand
 2. Plan
 3. Divide
-4. Stuck?
+4. Stuck ??
 5. Practice
+
