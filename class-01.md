@@ -19,6 +19,11 @@
 - It's is a process of developing and running automated test before actual development of the application .
 - It's starts with designing and developing tests for every small functionality of an application.
 
+**Advantages**
+1. let the developers to create small and testable features.
+2. TDD can speed up development time. 
+3. validate the integrity of the new code. 4.help developers understand their goals.
+
 ### How to perform TDD Test
 Following steps define how to perform TDD test,
 
