@@ -12,7 +12,8 @@
 Classes are in fact "special functions", the class syntax has two components:
 1. class expressions : It can be named or unnamed. The name given to a named class expression is local to the class's body.
 *unnamed*
-``` 
+
+```
 let Rectangle = class {
   constructor(height, width) {
     this.height = height;
@@ -21,8 +22,11 @@ let Rectangle = class {
   console.log(Rectangle.name);
 
 };
-```
+``` 
+
+
 *named*
+
 ```
 let Rectangle = class Rectangle2 {
   constructor(height, width) {
@@ -33,6 +37,7 @@ let Rectangle = class Rectangle2 {
 
 };
 ```
+
 2. class declarations :use the class keyword with the name of the class
 ``` class Rectangle {
   constructor(height, width) {
