@@ -51,16 +51,17 @@ Running JavaScript inside a browser means you are interacting with Web UI (HTML 
 
 ### 3 different ways to export a function from a node module
 
-1. module.exports = {
+1. ```module.exports = {
     method: function() {},
     otherMethod: function() {},
 };
+```
 
-2. exports.method = function() {};
+2. ``` exports.method = function() {};
 exports.otherMethod = function() {};
-
-3. let add = function (a, b) {
+```
+3.``` let add = function (a, b) {
    console.log(a + b);
 };
-
+```
  module.exports.add = add;
