@@ -9,7 +9,7 @@ Here you will find everything that I have read to share what I learned with you 
 | READ 2: | [class-02](https://reham-omar.github.io/Reading-Notes-401/class-02)  |
 | READ 3: | [class-03](https://reham-omar.github.io/Reading-Notes-401/class-03)  |
 | READ 4: | [class-04](https://reham-omar.github.io/Reading-Notes-401/class-04) |
-| READ 5: | [class-05]() |
+| READ 5: | [class-05](https://reham-omar.github.io/Reading-Notes-401/class-05) |
 | READ 6: |[class-06 ]() |
 | READ 7: | [class-07]()  |
 | READ 8 |  [class-08]() |
