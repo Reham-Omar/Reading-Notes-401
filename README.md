@@ -13,8 +13,8 @@ Here you will find everything that I have read to share what I learned with you 
 | READ 6: |[class-06 ](https://reham-omar.github.io/Reading-Notes-401/class-06) |
 | READ 7: | [class-07](https://reham-omar.github.io/Reading-Notes-401/class-07)  |
 | READ 8 |  [class-08](https://reham-omar.github.io/Reading-Notes-401/class-08) |
-| READ 9: | [class-09](https://reham-omar.github.io/Reading-Notes-401/class-08)|
-| READ 10: | [class-10]() |
+| READ 9: | [class-09](https://reham-omar.github.io/Reading-Notes-401/class-09)|
+| READ 10: | [class-10](https://reham-omar.github.io/Reading-Notes-401/class-10) |
 | READ 11: | [class-11]() |
 | READ 12: |[class-12]() |
 | READ 13: |[class-13]() |
