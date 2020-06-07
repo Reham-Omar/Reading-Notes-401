@@ -16,7 +16,7 @@ Here you will find everything that I have read to share what I learned with you 
 | READ 9: | [class-09](https://reham-omar.github.io/Reading-Notes-401/class-09)|
 | READ 10: | [class-10](https://reham-omar.github.io/Reading-Notes-401/class-10) |
 | READ 11: | [class-11](https://reham-omar.github.io/Reading-Notes-401/class-11) |
-| READ 12: |[class-12](https://reham-omar.github.io/Reading-Notes-401/class-11) |
+| READ 12: |[class-12](https://reham-omar.github.io/Reading-Notes-401/class-12) |
 | READ 13: |[class-13]() |
 | READ 14: |[class-14]() |
 | READ 15: | [class-15]()|
