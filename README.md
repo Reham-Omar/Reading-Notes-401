@@ -21,3 +21,5 @@ Here you will find everything that I have read to share what I learned with you 
 | READ 14: |[class-14](https://reham-omar.github.io/Reading-Notes-401/class-14) |
 | READ 15: | [class-15](https://reham-omar.github.io/Reading-Notes-401/class-15)|
 | READ 16: | [class-16](https://reham-omar.github.io/Reading-Notes-401/class-16)|
+| READ 16: | [class-17](https://reham-omar.github.io/Reading-Notes-401/class-17)|
+
