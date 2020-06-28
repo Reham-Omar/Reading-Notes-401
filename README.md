@@ -24,7 +24,8 @@ Here you will find everything that I have read to share what I learned with you 
 | READ 17: | [class-17](https://reham-omar.github.io/Reading-Notes-401/class-17)|
 | READ 18: | [class-18](https://reham-omar.github.io/Reading-Notes-401/class-18)|
 | READ 19: | [class-19](https://reham-omar.github.io/Reading-Notes-401/class-19)|
-| READ 19: | [class-26](https://reham-omar.github.io/Reading-Notes-401/class-26)|
+| READ 26: | [class-26](https://reham-omar.github.io/Reading-Notes-401/class-26)|
+| READ 27: | [class-27](https://reham-omar.github.io/Reading-Notes-401/class-27)|
 
 
 
