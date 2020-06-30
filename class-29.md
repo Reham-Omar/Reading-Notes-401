@@ -10,15 +10,16 @@ npm install react-router-dom
 - Also we need to `import { Route } from 'react-router-dom';`
 
 - To tell the <Route> tags which component to load, simply add a path attribute and the name of the component you want to load with component attribute.
-```
-<Route path='/' component={Home} />
+ ```
+ <Route path='/' component={Home} />
 ```
 ## React’s props.children
 
 - `this.props.children` does is that it is used to display whatever you include between the opening and closing tags when invoking a component.
 
 - ex:
-```
+
+ ```
 const Picture = (props) => {
   return (
     <div>
@@ -27,7 +28,7 @@ const Picture = (props) => {
     </div>
   )
 }
-```
+ ```
 * This component contains an <img> that is receiving some props and then it is displaying {props.children}.
 * Whenever this component is invoked {props.children} will also be displayed and this is just a reference to what is between the opening and closing tags of the component.
 
