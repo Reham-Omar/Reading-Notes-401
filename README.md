@@ -28,6 +28,8 @@ Here you will find everything that I have read to share what I learned with you 
 | READ 27: | [class-27](https://reham-omar.github.io/Reading-Notes-401/class-27)|
 | READ 28: | [class-28](https://reham-omar.github.io/Reading-Notes-401/class-28)|
 | READ 29: | [class-29](https://reham-omar.github.io/Reading-Notes-401/class-29)|
+| READ 30: | [class-30](https://reham-omar.github.io/Reading-Notes-401/class-30)|
+
 
 
 
