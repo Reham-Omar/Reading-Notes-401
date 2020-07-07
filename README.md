@@ -32,6 +32,8 @@ Here you will find everything that I have read to share what I learned with you 
 | READ 31: | [class-31](https://reham-omar.github.io/Reading-Notes-401/class-31)|
 | READ 32: | [class-32](https://reham-omar.github.io/Reading-Notes-401/class-32)|
 | READ 33: | [class-33](https://reham-omar.github.io/Reading-Notes-401/class-33)|
+| READ 34: | [class-34](https://reham-omar.github.io/Reading-Notes-401/class-34)|
+
 
 
 
