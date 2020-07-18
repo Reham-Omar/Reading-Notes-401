@@ -38,6 +38,8 @@ Here you will find everything that I have read to share what I learned with you 
 | READ 37: | [class-37](https://reham-omar.github.io/Reading-Notes-401/class-37)|
 | READ 38: | [class-38](https://reham-omar.github.io/Reading-Notes-401/class-38)|
 | READ 39: | [class-39](https://reham-omar.github.io/Reading-Notes-401/class-39)|
+| READ 40: | [class-40](https://reham-omar.github.io/Reading-Notes-401/class-40)|
+
 
 
 
